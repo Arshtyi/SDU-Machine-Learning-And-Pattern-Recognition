@@ -71,13 +71,14 @@
         loss_set.append(cost)
     ```
     得到的拟合结果如@F2
-    #subpar.grid(
-        columns: (1fr, 1fr),
-        figure(image("../output/2.png")), <F2-S1>,
-        figure(image("../output/3.png")), <F2-S2>,
-        label: <F2>,
-        // caption: [@F2-S1: 线性回归拟合结果 @F2-S2: 代价函数曲线],
-    )
+    // #subpar.grid(
+    //     columns: (1fr, 1fr),
+    //     figure(image("../output/2.png")), <F2-S1>,
+    //     figure(image("../output/3.png")), <F2-S2>,
+    //     label: <F2>,
+    //     // caption: [@F2-S1: 线性回归拟合结果 @F2-S2: 代价函数曲线],
+    // )
+    #figure(image("../output/2.png"))<F2>
     == 预测未知数据
     使用训练好的模型对未知数据进行预测
     ```python
@@ -117,7 +118,7 @@
 
     plt.show()
     ```
-    #figure(image("../output/4.png"))<F3>
+    #figure(image("../output/3.png"))<F3>
 ]
 #exp-block()[
     = 结论分析与体会
