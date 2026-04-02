@@ -2,3 +2,4 @@ text/
 *.pdf
 output/
 .venv/
+__pycache__/
