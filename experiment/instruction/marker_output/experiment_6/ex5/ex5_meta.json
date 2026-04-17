@@ -1,0 +1,388 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Experiment 5: Regularization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          193.81640625,
+          163.630859375
+        ],
+        [
+          401.07110595703125,
+          163.630859375
+        ],
+        [
+          401.07110595703125,
+          181.64434814453125
+        ],
+        [
+          193.81640625,
+          181.64434814453125
+        ]
+      ]
+    },
+    {
+      "title": "1 Description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.802001953125,
+          261.48046875
+        ],
+        [
+          230.06588745117188,
+          261.48046875
+        ],
+        [
+          230.06588745117188,
+          276.09417724609375
+        ],
+        [
+          124.802001953125,
+          276.09417724609375
+        ]
+      ]
+    },
+    {
+      "title": "2 Data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.390625,
+          328.47015380859375
+        ],
+        [
+          183.31228637695312,
+          328.47015380859375
+        ],
+        [
+          183.31228637695312,
+          342.816162109375
+        ],
+        [
+          123.390625,
+          342.816162109375
+        ]
+      ]
+    },
+    {
+      "title": "3 Regularized Linear Regression",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.802001953125,
+          430.044921875
+        ],
+        [
+          363.76953125,
+          430.044921875
+        ],
+        [
+          363.76953125,
+          445.40313720703125
+        ],
+        [
+          124.802001953125,
+          445.40313720703125
+        ]
+      ]
+    },
+    {
+      "title": "4 Regularized Logistic Regression",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          123.390625,
+          357.9781494140625
+        ],
+        [
+          373.352783203125,
+          357.9781494140625
+        ],
+        [
+          373.352783203125,
+          372.32415771484375
+        ],
+        [
+          123.390625,
+          372.32415771484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          810
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ex5"
+}

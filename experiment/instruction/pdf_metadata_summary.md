@@ -193,7 +193,48 @@
   - `/ModDate`: `D:20210409135029+08'00'`
   - `/Producer`: `Microsoft® Word 2016`
 
-## 6. machine_learning00_admin.pdf
+## 6. ex5.pdf
+
+- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\6\text\ex5.pdf`
+- Size (bytes): `300844`
+- Pages: `7`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `TeX(Infix Pro)`
+- Producer: `pdfTeX-1.40.15`
+- CreationDate: `2017-11-08 15:03:26+08:00`
+- ModDate: `2018-11-02 09:01:02`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/BUSSTP+CMBX10`
+  - `/DUYEAD+CMSY10`
+  - `/FFBWUV+CMBX8`
+  - `/FRCSVV+CMMI10`
+  - `/HNVCEO+CMEX10`
+  - `/KDMWYM+CMTI8`
+  - `/MDHFAD+CMMI5`
+  - `/MWINGM+CMMI7`
+  - `/NUUFHV+CMR8`
+  - `/OTZNJR+CMR7`
+  - `/PHQGHU+Times New Roman`
+  - `/PXBGHL+CMSY7`
+  - `/XJDZXQ+CMR10`
+  - `/XYBSMX+CMSY8`
+  - `/ZRSOSB+CMBX12`
+- Extra Metadata Keys:
+  - `/CreationDate`: `D:20171108150326+08'00'`
+  - `/Creator`: `TeX(Infix Pro)`
+  - `/ICNAppName`: `Infix Pro`
+  - `/ICNAppPlatform`: `Win`
+  - `/ICNAppVersion`: `7.3.0`
+  - `/ModDate`: `D:20181102090102`
+  - `/PTEX.Fullbanner`: `This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) kpathsea version 6.2.0`
+  - `/Producer`: `pdfTeX-1.40.15`
+  - `/Trapped`: `/False`
+
+## 7. machine_learning00_admin.pdf
 
 - File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning00_admin.pdf`
 - Size (bytes): `656499`
@@ -226,7 +267,7 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 7. machine_learning01_overview.pdf
+## 8. machine_learning01_overview.pdf
 
 - File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning01_overview.pdf`
 - Size (bytes): `3725944`
@@ -261,7 +302,7 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 8. machine_learning02_linear.pdf
+## 9. machine_learning02_linear.pdf
 
 - File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning02_linear.pdf`
 - Size (bytes): `2021011`
@@ -293,7 +334,7 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 9. machine_learning03_gradient_decent.pdf
+## 10. machine_learning03_gradient_decent.pdf
 
 - File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning03_gradient_decent.pdf`
 - Size (bytes): `1408028`
@@ -325,7 +366,7 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 10. machine_learning04_pca.pdf
+## 11. machine_learning04_pca.pdf
 
 - File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning04_pca.pdf`
 - Size (bytes): `6092998`
