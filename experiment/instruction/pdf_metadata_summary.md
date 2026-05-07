@@ -4,7 +4,7 @@
 
 ## 1. ex1.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\1\text\ex1.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/1/text/ex1.pdf`
 - Size (bytes): `270238`
 - Pages: `4`
 - Encrypted: `False`
@@ -49,7 +49,7 @@
 
 ## 2. ex2.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\2\text\ex2.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/2/text/ex2.pdf`
 - Size (bytes): `244402`
 - Pages: `4`
 - Encrypted: `False`
@@ -93,7 +93,7 @@
 
 ## 3. ex3.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\3\text\ex3.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/3/text/ex3.pdf`
 - Size (bytes): `86631`
 - Pages: `3`
 - Encrypted: `False`
@@ -120,7 +120,7 @@
 
 ## 4. ex4.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\4\text\ex4.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/4/text/ex4.pdf`
 - Size (bytes): `244765`
 - Pages: `3`
 - Encrypted: `False`
@@ -161,7 +161,7 @@
 
 ## 5. 数据预处理实验手册.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\5\text\数据预处理实验手册.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/5/text/数据预处理实验手册.pdf`
 - Size (bytes): `2307917`
 - Pages: `31`
 - Encrypted: `False`
@@ -195,7 +195,7 @@
 
 ## 6. ex5.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\experiment\6\text\ex5.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/6/text/ex5.pdf`
 - Size (bytes): `300844`
 - Pages: `7`
 - Encrypted: `False`
@@ -234,9 +234,78 @@
   - `/Producer`: `pdfTeX-1.40.15`
   - `/Trapped`: `/False`
 
-## 7. machine_learning00_admin.pdf
+## 7. 特征工程实验手册.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning00_admin.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/experiment/7/text/特征工程实验手册.pdf`
+- Size (bytes): `584777`
+- Pages: `14`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `w00280246`
+- Subject: `N/A`
+- Creator: `Acrobat PDFMaker 21 Word 版`
+- Producer: `Adobe PDF Library 21.1.181`
+- CreationDate: `2021-04-19 22:58:23+08:00`
+- ModDate: `2021-04-19 22:58:49+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/CAIKTE+Corbel`
+  - `/CEDOOE+ArialUnicodeMS`
+  - `/TZKCSW+Calibri`
+  - `/UQBIGU+Corbel-Bold`
+  - `/XDHVWO+SimSun`
+  - `/YVYXPM+ArialUnicodeMS`
+- Extra Metadata Keys:
+  - `/Author`: `w00280246`
+  - `/Comments`: ``
+  - `/Company`: `Huawei Technologies Co.,Ltd.`
+  - `/Confidential`: ``
+  - `/ContentTypeId`: `0x010100CC226774B8D87F4D92D9D1F6859ED44E`
+  - `/CreationDate`: `D:20210419225823+08'00'`
+  - `/Creator`: `Acrobat PDFMaker 21 Word 版`
+  - `/DocumentName`: ``
+  - `/DocumentVersion`: `01`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20210419225849+08'00'`
+  - `/Producer`: `Adobe PDF Library 21.1.181`
+  - `/Product&Project Name`: ``
+  - `/ProductVersion`: ``
+  - `/ProprietaryDeclaration`: `华为专有和保密信息
+版权所有 © 华为技术有限公司`
+  - `/ReleaseDate`: `2015-12`
+  - `/SourceModified`: `D:20210419145735`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/_2015_ms_pID_725343`: `(3)NEuo+e6W7GtI9V9IF6WfstpbrxV+kPEUuSf/4+B4HxB/lhvY7n765O1xI7OyovA399LtUz0S
+aRuAm3OMJ37y7PZ5r3q/i3Y3Bk4Yf87clKkFTSlsJxvotsjZBs18qN9wDqclm34X2B43klcc
+wWbZ8x/6PnGxlnDFRfZKqLgutawielM3uxIY62cAWCDHz9jcA5zINcv+q87L6DevValmi2Ex
+aMbrtyTS96xCL2Rqmf`
+  - `/_2015_ms_pID_7253431`: `gENAd/lqDqg7G27sfM5owpquSyjtzbAwHdxrEhrRC1YBi26nslyBvA
+Twx+noQVqCNFZu8Ck4duiG9yJSbpT4nkgPT3M0ZehkrJb0LiQqmxLErBJi+yJIkzV+Vx3QZI
+ZXY+1v3+jFpshFAw7BCn8zS7YlCMsb5/ggZraAisUGcxVLJQSPoQxHaW5GCHyNG/MjoEKuwm
+IBFeTnH6kLcQVM+JB1RaPNPlumerUbvdtjvo`
+  - `/_2015_ms_pID_7253432`: `9g==`
+  - `/_change`: ``
+  - `/_full-control`: ``
+  - `/_new_ms_pID_72543`: `(3)NqcJu9mtpIkQwNVhxO+yTbOSo8pNZ11SYbigMmY7lr0nhSlNNYxTnxCL4pCSzfaJNjp54Gd0
+EyS470WtmkQxbxyHR+AWpxM0BVLlXcYXFvKPFTB2SkJrpAwp2p6UmYrhGRuVy4OMYUuzvzkN
+sY1RE8TDJd8jR17xUjANuBSnU0nu5+18JdLUw7zgSnWmxIlTrMu4RlHfQsDO692sdEk5p4Nc
+Vi34w/VPSCA1TF1Tad`
+  - `/_new_ms_pID_725431`: `WFH/CM7ewGglDnbdxvmHpjitKLF/pgK9XQR/6napatPeAmB/yqoxwY
+8AOb2lUiFb6vPBpji0xn9aE+bVwdI5B+/VWQteYSSvAX1IMTeflRtFR3lzGZz3U0qUuiRQwi
+ogFueR88VCAhi4AxfgEsngqOrSpc2qswlcsi/aItWdKJTS0dt+d4OJFUjdOj2NViqn1qD/+f
+dT9kAnz5TNWZFVMrmN4BzaEYN+bk/kIdasFl`
+  - `/_new_ms_pID_725432`: `XH/TLfi2cyJDXZpa0fxWw2RI5ihTD8awSdSY
+dH2YTxdbU64rYYyVY8Xiyd/3VMIjbW+IA0gvvkbzo18YjFyD1S0MYIZQ+Fbq/tFijMlYpJwQ
+WTNbsqVnLccRi24I84HfXSzPQqaHSraGD4a331JfDq4kfWkZev8vu2w2StLt8kiT`
+  - `/_readonly`: ``
+  - `/sflag`: `1611899841`
+  - `/slevel`: `5`
+  - `/slevelui`: `0`
+
+## 8. machine_learning00_admin.pdf
+
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning00_admin.pdf`
 - Size (bytes): `656499`
 - Pages: `8`
 - Encrypted: `False`
@@ -267,9 +336,9 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 8. machine_learning01_overview.pdf
+## 9. machine_learning01_overview.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning01_overview.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning01_overview.pdf`
 - Size (bytes): `3725944`
 - Pages: `91`
 - Encrypted: `False`
@@ -302,9 +371,9 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 9. machine_learning02_linear.pdf
+## 10. machine_learning02_linear.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning02_linear.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning02_linear.pdf`
 - Size (bytes): `2021011`
 - Pages: `72`
 - Encrypted: `False`
@@ -334,9 +403,9 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 10. machine_learning03_gradient_decent.pdf
+## 11. machine_learning03_gradient_decent.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning03_gradient_decent.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning03_gradient_decent.pdf`
 - Size (bytes): `1408028`
 - Pages: `33`
 - Encrypted: `False`
@@ -366,9 +435,9 @@
   - `/Producer`: `Microsoft® PowerPoint® 2021`
   - `/Title`: `PowerPoint 演示文稿`
 
-## 11. machine_learning04_pca.pdf
+## 12. machine_learning04_pca.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning04_pca.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning04_pca.pdf`
 - Size (bytes): `6092998`
 - Pages: `73`
 - Encrypted: `False`
@@ -406,9 +475,9 @@
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 12. machine_learning05_lda.pdf
+## 13. machine_learning05_lda.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning05_lda.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning05_lda.pdf`
 - Size (bytes): `4245895`
 - Pages: `54`
 - Encrypted: `False`
@@ -444,9 +513,9 @@
   - `/Title`: ``
   - `/Trapped`: `/False`
 
-## 13. machine_learning06_feature_selection.pdf
+## 14. machine_learning06_feature_selection.pdf
 
-- File: `D:\SDU\Course\MachineLearningAndPatternRecognition\text\machine_learning06_feature_selection.pdf`
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning06_feature_selection.pdf`
 - Size (bytes): `2803936`
 - Pages: `52`
 - Encrypted: `False`
@@ -480,6 +549,45 @@
   - `/ModDate`: `D:20260502174535+08'00'`
   - `/Producer`: ``
   - `/SourceModified`: `D:20260502174535+08'00'`
+  - `/Subject`: ``
+  - `/Title`: ``
+  - `/Trapped`: `/False`
+
+## 15. machine_learning07_bayes.pdf
+
+- File: `/mnt/d/SDU/Course/MachineLearningAndPatternRecognition/text/machine_learning07_bayes.pdf`
+- Size (bytes): `5501293`
+- Pages: `61`
+- Encrypted: `False`
+- Title: `N/A`
+- Author: `N/A`
+- Subject: `N/A`
+- Creator: `WPS 演示`
+- Producer: `N/A`
+- CreationDate: `2026-05-12 09:27:10+08:00`
+- ModDate: `2026-05-12 09:27:10+08:00`
+- Copyright/Rights: `N/A`
+- Fonts:
+  - `/CARUHW+JetBrainsMono-Regular`
+  - `/CSKSUK+Wingdings-Regular`
+  - `/DCWGQU+CambriaMath`
+  - `/ECAGAJ+Calibri-Italic`
+  - `/LNUHNF+SimSun`
+  - `/NPTKMQ+Calibri-BoldItalic`
+  - `/TVOIEN+Calibri-Bold`
+  - `/VMBCQV+ArialMT`
+  - `/WKHQJE+JetBrainsMono-Italic`
+  - `/ZLXSHE+Calibri`
+- Extra Metadata Keys:
+  - `/Author`: ``
+  - `/Comments`: ``
+  - `/Company`: ``
+  - `/CreationDate`: `D:20260512092710+08'00'`
+  - `/Creator`: `WPS 演示`
+  - `/Keywords`: ``
+  - `/ModDate`: `D:20260512092710+08'00'`
+  - `/Producer`: ``
+  - `/SourceModified`: `D:20260512092710+08'00'`
   - `/Subject`: ``
   - `/Title`: ``
   - `/Trapped`: `/False`

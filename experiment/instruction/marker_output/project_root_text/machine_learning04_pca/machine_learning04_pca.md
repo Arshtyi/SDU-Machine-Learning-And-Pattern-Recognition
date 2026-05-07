@@ -606,21 +606,21 @@ Truncated SVD is no longer an exact decomposition of the original matrix.
 - LSI is a technique that projects queries and documents into a space with "latent" semantic dimensions.
 - In the latent semantic space, a query and a document can have high cosine similarity even if they don't share any terms, as long as their terms are semantically similar in a sense.
 
-|  |  |  |  |  |  |  |  |        |  | �<br>= | 3 |  |   |   |  |  |
-|--|--|--|--|--|--|--|--|--------|--|--------|---|--|---|---|--|--|
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   |   |  |  |
-|  |  |  |  |  |  |  |  |        |  |        |   |  |   | � |  |  |
-|  |  |  |  |  |  |  |  | �<br>� |  | �<br>� |   |  | � | � |  |  |
+|  |  |  |  |  |  |  |  |   |   |  | �<br>= | 3 |  |   |   |  |  |
+|--|--|--|--|--|--|--|--|---|---|--|--------|---|--|---|---|--|--|
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   |   |  |  |
+|  |  |  |  |  |  |  |  |   |   |  |        |   |  |   | � |  |  |
+|  |  |  |  |  |  |  |  | � | � |  | �<br>� |   |  | � | � |  |  |
 
 ### **SVD** Application2-Pseudoinverse
 

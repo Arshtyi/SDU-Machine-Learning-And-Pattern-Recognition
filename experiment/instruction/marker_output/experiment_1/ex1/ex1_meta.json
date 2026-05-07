@@ -352,5 +352,5 @@
       }
     }
   ],
-  "debug_data_path": "debug_data\\ex1"
+  "debug_data_path": "debug_data/ex1"
 }

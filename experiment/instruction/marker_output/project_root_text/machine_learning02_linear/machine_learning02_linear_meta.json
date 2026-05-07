@@ -2496,7 +2496,7 @@
         ],
         [
           "TableCell",
-          3
+          4
         ],
         [
           "Equation",
@@ -3280,7 +3280,7 @@
       "block_counts": [
         [
           "TableCell",
-          27
+          28
         ],
         [
           "Line",
@@ -4781,5 +4781,5 @@
       }
     }
   ],
-  "debug_data_path": "debug_data\\machine_learning02_linear"
+  "debug_data_path": "debug_data/machine_learning02_linear"
 }

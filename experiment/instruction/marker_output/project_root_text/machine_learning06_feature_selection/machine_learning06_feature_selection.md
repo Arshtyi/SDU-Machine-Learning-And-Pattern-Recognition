@@ -116,17 +116,17 @@ $$\frac{M(M+1)}{2}$$
 
 Principle: replace evaluation of model with quick to compute statistics  $J(X_f)$ 
 
-| k   | $J(X_k)$       |  |  |  |
-|-----|----------------|--|--|--|
-| 35  | 0.846          |  |  |  |
-| 42  | 0.811          |  |  |  |
-| 10  | 0.810          |  |  |  |
-| 654 | 0.611<br>0.443 |  |  |  |
-| 22  |                |  |  |  |
-| 59  | 0.388          |  |  |  |
-|     |                |  |  |  |
-| 212 | 0.09           |  |  |  |
-| 39  | 0.05           |  |  |  |
+| k   | $J(X_k)$ |  |  |  |
+|-----|----------|--|--|--|
+| 35  | 0.846    |  |  |  |
+| 42  | 0.811    |  |  |  |
+| 10  | 0.810    |  |  |  |
+| 654 | 0.611    |  |  |  |
+| 22  | 0.443    |  |  |  |
+| 59  | 0.388    |  |  |  |
+|     |          |  |  |  |
+| 212 | 0.09     |  |  |  |
+| 39  | 0.05     |  |  |  |
 
 1. Score each feature  $X_f$  individually based on the f-th column of the data matrix and label vector Y.
 
@@ -159,17 +159,17 @@ Principle: replace evaluation of model with quick to compute statistics  $J(X_f)
 
 Principle: replace evaluation of model with quick to compute statistics X<sup>f</sup>
 
-| k   | $J(X_k)$ |  |  |  |
-|-----|----------|--|--|--|
-| 35  | 0.846    |  |  |  |
-| 42  | 0.811    |  |  |  |
-| 10  | 0.810    |  |  |  |
-| 654 | 0.611    |  |  |  |
-| 22  | 0.443    |  |  |  |
-| 59  | 0.388    |  |  |  |
-|     |          |  |  |  |
-| 212 | 0.09     |  |  |  |
-| 39  | 0.05     |  |  |  |
+| k   | $J(X_k)$ |
+|-----|----------|
+| 35  | 0.846    |
+| 42  | 0.811    |
+| 10  | 0.810    |
+| 654 | 0.611    |
+| 22  | 0.443    |
+| 59  | 0.388    |
+|     |          |
+| 212 | 0.09     |
+| 39  | 0.05     |
 
 # **Examples of filtering criterion** X<sup>f</sup>
 
@@ -235,17 +235,17 @@ $$J(X_k) = \frac{cov(X_k, Y)}{\sqrt{var(X_k)}\sqrt{var(Y)}} \approx \frac{\sum_{
 
 Principle: replace evaluation of model with quick to compute statistics X<sup>f</sup>
 
-| k   | $J(X_k)$ |  |  |  |  |
-|-----|----------|--|--|--|--|
-| 35  | 0.846    |  |  |  |  |
-| 42  | 0.811    |  |  |  |  |
-| 10  | 0.810    |  |  |  |  |
-| 654 | 0.611    |  |  |  |  |
-| 22  | 0.443    |  |  |  |  |
-| 59  | 0.388    |  |  |  |  |
-|     |          |  |  |  |  |
-| 212 | 0.09     |  |  |  |  |
-| 39  | 0.05     |  |  |  |  |
+| k   | $J(X_k)$ |  |  |  |
+|-----|----------|--|--|--|
+| 35  | 0.846    |  |  |  |
+| 42  | 0.811    |  |  |  |
+| 10  | 0.810    |  |  |  |
+| 654 | 0.611    |  |  |  |
+| 22  | 0.443    |  |  |  |
+| 59  | 0.388    |  |  |  |
+|     |          |  |  |  |
+| 212 | 0.09     |  |  |  |
+| 39  | 0.05     |  |  |  |
 
 # **Examples of filtering criterion** X<sup>f</sup>
 
@@ -502,11 +502,11 @@ Principle: replace evaluation of model with quick to compute statistics  $J(X_f)
 
 Now we want to check **whether** "a news contains the word '吴亦 凡'" and "the news belongs to the category of 'Entertainment'" are **independent**. We have the following ground truth.
 
-| 组别      | 属于娱乐 | 不属于娱乐 | 合计 |
-|---------|------|-------|----|
-| 不包含 吴亦凡 | 19   | 24    | 43 |
-| 包含吴亦凡   | 34   | 10    | 44 |
-| 合计      | 53   | 34    | 87 |
+| 组别     | 属于娱乐 | 不属于 娱乐 | 合计 |
+|--------|------|--------|----|
+| 不包含吴亦凡 | 19   | 24     | 43 |
+| 包含吴亦凡  | 34   | 10     | 44 |
+| 合计     | 53   | 34     | 87 |
 
 #### **Practical Distribution.**
 
@@ -518,11 +518,11 @@ Principle: replace evaluation of model with quick to compute statistics  $J(X_f)
 
 Assume that they are independent (null hypothesis), then we have that given a random sampled news, the probability that it belongs to Entertainment is (19+34)/(19+34+24+10)= 60.9%.
 
-| 组别      | 属于娱乐 | 不属于娱乐 | 合计 |
-|---------|------|-------|----|
-| 不包含 吴亦凡 | 19   | 24    | 43 |
-| 包含吴亦凡   | 34   | 10    | 44 |
-| 合计      | 53   | 34    | 87 |
+| 组别     | 属于娱乐 | 不属于娱乐 | 合计 |
+|--------|------|-------|----|
+| 不包含吴亦凡 | 19   | 24    | 43 |
+| 包含吴亦凡  | 34   | 10    | 44 |
+| 合计     | 53   | 34    | 87 |
 
 #### **Practical Distribution.**
 
@@ -555,11 +555,11 @@ Practical value Expected value
 |----------------------|-------------------|---------------------|
 |----------------------|-------------------|---------------------|
 
-| _24.  | 布临界值表 | 5 (卡东)    | (本名    |      |      |       |      |       |       |       | P-value |       |       |
-|-------|-------|-----------|--------|------|------|-------|------|-------|-------|-------|---------|-------|-------|
-|       | P     | K - F.JJ. | 0.46.2 |      |      |       |      |       |       |       |         |       | 75    |
-| n o ▼ | 0.995 | 0. 99     | 0.975  | 0.95 | 0.9  | 0. 75 | 0.5  | 0. 25 | 0.1   | 0.05  | 0.025   | 0.01  | 0.005 |
-| 1     | 12.   | 22        | 1111   | 1    | 0.02 | 0.1   | 0.45 | 1.32  | 2, 71 | 3, 84 | 5.02    | 6. 63 | 7.88  |
+| _24   | 布临界值表 | 5(七方)  | (赤纪   |      |      |       |      |       |       |       | P-value |       |       |
+|-------|-------|--------|-------|------|------|-------|------|-------|-------|-------|---------|-------|-------|
+|       | P     | 1 20 . |       |      |      |       |      |       |       |       |         |       | 18    |
+| n o ▼ | 0.995 | 0. 99  | 0.975 | 0.95 | 0.9  | 0. 75 | 0.5  | 0. 25 | 0.1   | 0.05  | 0.025   | 0.01  | 0.005 |
+| 1     | 12.   | 22     | 1111  | 1    | 0.02 | 0.1   | 0.45 | 1.32  | 2, 71 | 3, 84 | 5.02    | 6. 63 | 7.88  |
 
 Principle: replace evaluation of model with quick to compute statistics  $J(X_f)$ 
 

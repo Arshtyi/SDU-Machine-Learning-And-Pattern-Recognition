@@ -284,7 +284,7 @@ $$\mathbf{x}_i = \begin{bmatrix} x_{i1} \\ x_{i2} \\ \vdots \\ x_{id} \end{bmatr
 
 | class means to be as far apart from each other as possible                  | <b>→</b> | the <b>between-class</b> scatter to be <b>large</b> |
 |-----------------------------------------------------------------------------|----------|-----------------------------------------------------|
-| samples from the same class to be as <b>close</b> to their mean as possible | <b>→</b> | the <b>within-class</b> scatter to be <b>small</b>  |
+| samples from the same class to be as <b>close</b> to their mean as possible | <b></b>  | the <b>within-class</b> scatter to be <b>small</b>  |
 
 The generalization of the within-class covariance matrix to the case of C classes.
 
